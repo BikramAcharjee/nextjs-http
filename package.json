@@ -1,5 +1,5 @@
 {
-    "name": "nextjs-http",
+    "name": "@bikramacharjee/nextjs-http",
     "version": "1.0.4",
     "description": "make http request very simple",
     "main": "main.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BikramAcharjee/nextjs-http.git"
+        "url": "git+https://github.com/bikramacharjee/nextjs-http.git"
     },
     "keywords": [
         "nextjs-http",
@@ -22,13 +22,13 @@
     "author": "Bikram Acharjee",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/BikramAcharjee/nextjs-http/issues"
+        "url": "https://github.com/bikramacharjee/nextjs-http/issues"
     },
-    "homepage": "https://github.com/BikramAcharjee/nextjs-http#readme",
+    "homepage": "https://github.com/bikramacharjee/nextjs-http#readme",
     "dependencies": {
         "node-fetch": "^3.3.1"
     },
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/@BikramAcharjee"
+        "registry": "https://npm.pkg.github.com/@bikramacharjee"
     }
 }
